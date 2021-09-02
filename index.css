@@ -1,0 +1,53 @@
+.container{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border: 1px solid black;
+    display: justify;
+    margin: 2rem;
+    width: 50rem;
+    
+}
+.container1{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+#hd {
+    font-size: 2.5rem;
+    text-align: center;
+}
+#rap{
+    background-color: blue;
+    color: white;
+    font-size: 2rem;
+    border-radius: 8px;
+}
+#rap1{
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    border-radius: 8px;
+
+
+}
+.container3{
+    border: 2px solid black;
+    margin: auto;
+    padding: 0.5rem;
+    display: justify;
+   
+}
+#container4{
+    background-color: crimson;
+    color: black;
+    border: 1px solid black;
+    display: flex;
+    width: 12rem;
+    margin-left: 18.5rem;
+   padding: 0.6rem;
+   border-radius: 8px;
+    
+}
+
+
